@@ -83,7 +83,7 @@
 
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
 		<!-- basePackage :mapper接口所在的包 -->
-		<property name="basePackage" value="com.wuwei.dao"></property>
+		<property name="basePackage" value="com.wuwei.cms.dao"></property>
 
 	</bean>
 </beans>
